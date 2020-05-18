@@ -1,2 +1,2 @@
-# 개발환경 구성하기
+# Intellij Community 설치하기
 
