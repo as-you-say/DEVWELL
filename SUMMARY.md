@@ -4,14 +4,14 @@
 
 ## LINUX
 
-* [설치하기](linux/linux-install.md)
-* [네트워크 설정하기](linux/linux-network-setting.md)
-* [사용자/그룹 설정하기](linux/linux-user-group-setting.md)
-* [SSH 설정하기](linux/linux-ssh-setting.md)
-* [SFTP 설정하기](linux/linux-sftp-setting.md)
-* [Tomcat / Node 설치](linux/linux-tomcat-node-install.md)
-* [Apache / Nginx 설치](linux/linux-apache-nginx-install.md)
-* [https 설정하기](linux/linux-https-setting.md)
+* [설치하기](linux/install.md)
+* [네트워크 설정하기](linux/network-setting.md)
+* [사용자/그룹 설정하기](linux/user-group-setting.md)
+* [SSH 설정하기](linux/ssh-setting.md)
+* [SFTP 설정하기](linux/sftp-setting.md)
+* [Tomcat / Node 설치](linux/tomcat-node-install.md)
+* [Apache / Nginx 설치](linux/apache-nginx-install.md)
+* [https 설정하기](linux/https-setting.md)
 
 ## Webpack
 
