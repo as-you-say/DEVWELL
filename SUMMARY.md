@@ -41,20 +41,20 @@
 
 ## Spring MVC
 
-* [Intellij Community 설치하기](spring-mvc/spring-mvc-setting.md)
-* [계정 / 권한 테이블 생성하기](spring-mvc/spring-mvc-account-auth-table.md)
-* [시큐리티 설정하기](spring-mvc/spring-mvc-security-setting.md)
-* [CSRF 정책 정의하기](spring-mvc/spring-mvc-csrf.md)
-* [에러코드 / 에러메시지 정의하기](spring-mvc/spring-mvc-error-define.md)
-* [테스트코드 포맷 정의하기](spring-mvc/spring-mvc-test-code-format-define.md)
-* [유스케이스 작성하기](spring-mvc/spring-mvc-usecase.md)
-* [화면 / 기능 정의하기](spring-mvc/spring-mvc-view-function.md)
-* [ERD 작성하기](spring-mvc/spring-mvc-erd.md)
-* [테이블 정의서 작성하기](spring-mvc/spring-mvc-table-doc.md)
-* [클래스 다이어그램 작성하기](spring-mvc/spring-mvc-class-diagram.md)
-* [API 명세서 작성하기](spring-mvc/spring-mvc-api-doc.md)
-* [Nexus 서버 구축하기](spring-mvc/spring-mvc-use-lib-doc.md)
-* [개발환경 / 운용환경 구축하기](spring-mvc/spring-mvc-dev-prod-env.md)
+* [Intellij Community 설치하기](spring-mvc/intellij-install.md)
+* [계정 / 권한 테이블 생성하기](spring-mvc/account-auth-table.md)
+* [시큐리티 설정하기](spring-mvc/security-setting.md)
+* [CSRF 정책 정의하기](spring-mvc/csrf.md)
+* [에러코드 / 에러메시지 정의하기](spring-mvc/error.md)
+* [테스트코드 포맷 정의하기](spring-mvc/test-code-format.md)
+* [유스케이스 작성하기](spring-mvc/usecase.md)
+* [화면 / 기능 정의하기](spring-mvc/view-function.md)
+* [ERD 작성하기](spring-mvc/erd.md)
+* [테이블 정의서 작성하기](spring-mvc/table-doc.md)
+* [클래스 다이어그램 작성하기](spring-mvc/class-diagram.md)
+* [API 명세서 작성하기](spring-mvc/api-doc.md)
+* [Nexus 서버 구축하기](spring-mvc/nexus.md)
+* [개발환경 / 운용환경 구축하기](spring-mvc/dev-prod-env.md)
 
 ## Spring Boot
 
